@@ -13,6 +13,8 @@ In this project we were controlling the cte (cross track error) that describes t
 Additionally I added another PID instance to control the speed of the vehicle.
 
 
+Project video: (Youtube Link)
+
 [![Project track](https://github.com/stefancyliax/CarND-PID-Control-Project/raw/master/pic/PID.gif)](https://youtu.be/AE_pA-dvYC8)
 
 ## Reflection

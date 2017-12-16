@@ -5,7 +5,7 @@
 
 The goal of this project was to use a simple PID control to drive a car around a track in the [term 2 simulator](https://github.com/udacity/self-driving-car-sim/releases). A PID controller is a simple feedback loop mechanism that doesn't only use the difference between the desired and the current state (P for proportional) but also integral (I) and derivative (D) terms. That allows for a simple but powerful control loop that is widely used.
 
-In this project we were controlling the cte (cross track error) that describes the derivation of a vehicle from the middle of the lane. The simulator provides the current cte and the PID controller uses it to control the steering angle that is passed back to the simulator.
+In this project we were controlling the cte (cross track error) that describes the deviation of a vehicle from the middle of the lane. The simulator provides the current cte and the PID controller uses it to control the steering angle that is passed back to the simulator.
 
 ![PID](https://github.com/stefancyliax/CarND-PID-Control-Project/raw/master/pic/PID.png)
 
